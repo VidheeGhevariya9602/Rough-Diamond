@@ -1,0 +1,58 @@
+/* Userlist.css */
+
+.pro {
+    position: relative;
+    margin-top: 3vh;
+}
+
+.pro-1 {
+    color: white;
+    text-align: center;
+    font-family: Philosopher;
+}
+
+.table-1 {
+    margin: 2vh auto;
+    padding: 0 20px;
+    color: white;
+}
+
+.table-1 tr {
+    margin: 0;
+    padding: 1.5vh;
+    border: 0.3vh solid white;
+    text-align: center;
+}
+
+.table-1 tr th {
+    width: 15vh;
+    font-family: Philosopher;
+    padding: 1.5vh;
+    font-size: 3.5vh;
+    border: 0.3vh solid white;
+}
+
+.tbody-1 td {
+    margin-top: 0vh;
+    width: 25vh;
+    border: 0.3vh solid white;
+    padding: 1.5vh;
+    color: #949494;
+}
+
+.profileset {
+    cursor: pointer;
+    width: fit-content;
+    margin: 3vh auto;
+}
+
+.profileset img {
+    height: 35vh;
+    width: 35vh;
+    border-radius: 50%;
+    border: 1px solid grey;
+}
+
+.profileset input {
+    display: none;
+}
